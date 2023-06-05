@@ -33,7 +33,7 @@ The resulting rasters can be found in the respective INDEX_rasters folders.
 
 Rasters were loaded into R and downloaded as png files visualized using the RColorBrewer package. Code for this plot generation can be found in the visualizing_rasters.R file in the R_code folder. Raster visualizations are found in the raster_visualizations folder. Note tha tthe rasters and visualizations for LST represent an improperly scaled value. That value was later corrected in the analysis portion but as such the tif files are not included in thei documentation.  
 
-Averages and min and max values were computed using features from the 'raster' package in R. Code for this analysis can be found in the averages.R file in the R_code folder. Resulting Values can be found in the analysis_csv_cleaned folder.
+Using the visualizations, some data was eliminated based on the visible evidence of cloud cover in certain areas. Averages and min and max values were computed for the remaining rasters using features from the 'raster' package in R. Code for this analysis can be found in the averages.R file in the R_code folder. Resulting Values can be found in the analysis_csv_cleaned folder.
 
 ![konzaC_nirv_june2019_reflectance](https://github.com/sagems/ess262_final/assets/122573798/18921cc0-3202-416a-8886-1ff0bf3d7097)
 
