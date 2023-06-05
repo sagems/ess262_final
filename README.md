@@ -33,7 +33,7 @@ Rasters were loaded into R and downloaded as png files visualized using the RCol
 
 Averages and min and max values were computed using features from the 'raster' package in R. Code for this analysis can be found in the averages.R file in the R_code folder. 
 
-## Bar Charts
+## Figures
 
 The final step of the analysis was creating visualizations of the computed values for the rasters. Code for generating the bar charts can be found in making_bar_plots.R in the R_code folder. The bar plots themselves are located in the bar_charts folder, and are titled according to the information they display. For example, avg_top_ndvi_nbr.png charts the average NDVI values for the National Bison Range study area.
 
