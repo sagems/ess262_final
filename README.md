@@ -27,9 +27,11 @@ NDWI: https://code.earthengine.google.com/01a57dd40e737246a1c87334577ca8b8
 
 NIRv: https://code.earthengine.google.com/6acb27b4f9d250c9bf8ab0cb78070264
 
+The resulting rasters can be found in the raster_files folder. 
+
 ## Raster Visualization and Analysis
 
-Rasters were loaded into R and downloaded as png files visualized using the RColorBrewer package. Code for this plot generation can be found in the visualizing_rasters.R file in the R_code folder. 
+Rasters were loaded into R and downloaded as png files visualized using the RColorBrewer package. Code for this plot generation can be found in the visualizing_rasters.R file in the R_code folder. Raster visualizations are found in the raster_visualizations folder. 
 
 Averages and min and max values were computed using features from the 'raster' package in R. Code for this analysis can be found in the averages.R file in the R_code folder. Resulting Values can be found in the analysis_csv_cleaned folder.
 
