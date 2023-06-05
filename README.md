@@ -31,7 +31,7 @@ The resulting rasters can be found in the raster_files folder.
 
 ## Raster Visualization and Analysis
 
-Rasters were loaded into R and downloaded as png files visualized using the RColorBrewer package. Code for this plot generation can be found in the visualizing_rasters.R file in the R_code folder. Raster visualizations are found in the raster_visualizations folder. 
+Rasters were loaded into R and downloaded as png files visualized using the RColorBrewer package. Code for this plot generation can be found in the visualizing_rasters.R file in the R_code folder. Raster visualizations are found in the raster_visualizations folder. Note tha tthe rasters and visualizations for LST represent an improperly scaled value. That value was later corrected in the analysis portion but as such the tif files are not included in thei documentation.  
 
 Averages and min and max values were computed using features from the 'raster' package in R. Code for this analysis can be found in the averages.R file in the R_code folder. Resulting Values can be found in the analysis_csv_cleaned folder.
 
