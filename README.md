@@ -2,6 +2,8 @@
 
 Technical Documentation Guide Compiled by Sage McGinley-Smith
 
+Henry Lai, Tule Horton, Sage McGinley-Smith
+
 ESS 262: Remote Sensing of Land 
 
 Spring 2023
