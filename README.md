@@ -27,7 +27,7 @@ NDWI: https://code.earthengine.google.com/01a57dd40e737246a1c87334577ca8b8
 
 NIRv: https://code.earthengine.google.com/6acb27b4f9d250c9bf8ab0cb78070264
 
-The resulting rasters can be found in the raster_files folder. 
+The resulting rasters can be found in the respective INDEX_rasters folders. 
 
 ## Raster Visualization and Analysis
 
