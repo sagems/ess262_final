@@ -35,6 +35,6 @@ Averages and min and max values were computed using features from the 'raster' p
 
 The final step of the analysis was creating visualizations of the computed values for the rasters. Code for generating the bar charts can be found in making_bar_plots.R in the R_code folder. The bar plots themselves are located in the bar_charts folder, and are titled according to the information they display. For example, avg_top_ndvi_nbr.png charts the average NDVI values for the National Bison Range study area.
 
-![avg_top_ndvi_nbr](https://github.com/sagems/ess262_final/assets/122573798/f6648abc-a093-477f-8215-3608180de93c){: width="400px" height="300px"}
+![avg_top_ndvi_nbr](https://github.com/sagems/ess262_final/assets/122573798/f6648abc-a093-477f-8215-3608180de93c){: width="200px" height="150px"}
 
 
