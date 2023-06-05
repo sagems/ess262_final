@@ -13,9 +13,10 @@ Shapefiles were created in Google Earth Engine. Several of the sites had Shapefi
 
 ## Downloading Raster Data
 
-Code for downloading raster data for each of the indexes can be found at the following link. All data was drawn from the Landsat 8 dataset in Google Earth Engine.
+Code for downloading raster data for each of the indexes can be found at the following links. All data was drawn from the Landsat 8 dataset in Google Earth Engine.
 
 Land Surface Temperature: https://code.earthengine.google.com/789f25831e0b1976b620db30ef05c31e
+
 Note: LST was later converted to degrees celcius in R. Code for the conversion can be found in the R_code folder in the file titled converting_temp_values.R.
 
 NDVI: https://code.earthengine.google.com/6206899ff15226568f1178ebed474e86
@@ -34,5 +35,6 @@ Averages and min and max values were computed using features from the 'raster' p
 
 The final step of the analysis was creating visualizations of the computed values for the rasters. Code for generating the bar charts can be found in making_bar_plots.R in the R_code folder. The bar plots themselves are located in the bar_charts folder, and are titled according to the information they display. For example, avg_top_ndvi_nbr.png charts the average NDVI values for the National Bison Range study area.
 
-![avg_top_ndvi_nbr](https://github.com/sagems/ess262_final/assets/122573798/f6648abc-a093-477f-8215-3608180de93c)
+![avg_top_ndvi_nbr](https://github.com/sagems/ess262_final/assets/122573798/f6648abc-a093-477f-8215-3608180de93c){: width="400px" height="300px"}
+
 
